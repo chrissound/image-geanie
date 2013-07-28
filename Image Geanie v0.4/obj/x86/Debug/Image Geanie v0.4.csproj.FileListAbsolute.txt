@@ -1,0 +1,10 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\Image_Geanie_v0._4.imageCompareForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\Image_Geanie_v0._4.maniForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\Image_Geanie_v0._4.Properties.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\bin\Debug\Image Geanie v0.4.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\bin\Debug\Image Geanie v0.4.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\Image Geanie v0.4.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Image Geanie v0.4\Image Geanie v0.4\obj\x86\Debug\Image Geanie v0.4.pdb
